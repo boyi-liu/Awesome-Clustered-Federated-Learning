@@ -1,0 +1,174 @@
+One-shot Clustering:
+  title: "One-shot Clustering"
+  split_by_year: true
+  list:
+    - title: "Federated learning with hierarchical clustering of local updates to improve training on non-IID data"
+      abbr: "FL+HC"
+      year: 2020
+      conf: IJCNN
+      links:
+        PDF: https://arxiv.org/pdf/2004.11791.pdf
+
+    - title: "Exploiting Label Skews in Federated Learning with Model Concatenation"
+      abbr: FedConcat
+      year: 2024
+      conf: AAAI
+      links:
+        PDF: https://arxiv.org/pdf/2312.06290.pdf
+
+    - title: "Federated learning with incremental clustering for heterogeneous data"
+      abbr: "FLIC"
+      year: 2022
+      conf: IJCNN
+      links:
+        PDF: https://arxiv.org/pdf/2206.08752.pdf
+
+    - title: "Learning Across Domains and Devices: Style-Driven Source-Free Domain Adaptation in Clustered Federated Learning"
+      abbr: FFREEDA
+      year: 2023
+      conf: CVPR
+      links:
+        PDF: https://openaccess.thecvf.com/content/WACV2023/papers/Shenaj_Learning_Across_Domains_and_Devices_Style-Driven_Source-Free_Domain_Adaptation_in_WACV_2023_paper.pdf
+
+    - title: "Flexible Clustered Federated Learning for Client-Level Data Distribution Shift"
+      abbr: FlexCFL
+      year: 2021
+      conf: TPDS
+      links:
+        PDF: https://arxiv.org/pdf/2108.09749.pdf
+
+
+Iterative Clustering:
+  title: "Iterative Clustering"
+  split_by_year: true
+  list:
+    - title: "An Efﬁcient Framework for Clustered Federated Learning"
+      abbr: "IFCA"
+      year: 2020
+      conf: NIPS
+      links:
+        PDF: https://proceedings.neurips.cc/paper_files/paper/2020/file/e32cc80bf07915058ce90722ee17bb71-Paper.pdf
+    
+    - title: "Three Approaches for Personalization with Applications to Federated Learning"
+      abbr: "HypCluster"
+      year: 2020
+      conf: arXiv
+      links:
+        PDF: https://arxiv.org/pdf/2002.10619.pdf
+    
+    - title: "Clusterfl: a similarity-aware federated learning system for human activity recognition"
+      abbr: "ClusterFL"
+      year: 2021
+      conf: MobiSys
+      links:
+        PDF: https://drive.google.com/file/d/12enDtuCei29I3EdkXbBRFOn1rnkzdntm/view
+
+    - title: "Efficient Distribution Similarity Identification in Clustered Federated Learning via Principal Angles between Client Data Subspaces"
+      abbr: "PACFL"
+      year: 2023
+      conf: AAAI
+      links:
+        PDF: https://ojs.aaai.org/index.php/AAAI/article/view/26197/25969
+
+    - title: "Multi-center federated learning: clients clustering for better personalization"
+      abbr: "FeSEM"
+      year: 2023
+      conf: WWW
+      links:
+        PDF: https://link.springer.com/article/10.1007/s11280-022-01046-x
+
+    - title: "DistFL: Distribution-aware Federated Learning for Mobile Scenarios"
+      abbr: "DistFL"
+      year: 2021
+      conf: UbiComp
+      links:
+        PDF: https://arxiv.org/pdf/2110.11619.pdf
+
+
+Hierarchical Clustering:
+  title: "Hierarchical Clustering"
+  split_by_year: true
+  list:
+    - title: "Clustered Federated Learning: Model-Agnostic Distributed Multitask Optimization Under Privacy Constraints"
+      abbr: CFL
+      year: 2020
+      conf: TNNLS
+      links:
+        PDF: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9174890
+
+    - title: "A Greedy Agglomerative Framework for Clustered Federated Learning"
+      abbr: FLACC
+      year: 2023
+      conf: TII
+      links:
+        PDF: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10059167
+
+    - title: "Auxo: Efficient Federated Learning via Scalable Client Clustering"
+      abbr: Auxo
+      year: 2023
+      conf: SoCC
+      links:
+        PDF: https://arxiv.org/pdf/2210.16656.pdf
+
+    - title: "Clustered Federated Learning in Heterogeneous Environment"
+      abbr: ICFL
+      year: 2023
+      conf: TNNLS
+      links:
+        PDF: https://ieeexplore.ieee.org/abstract/document/10106044
+
+    - title: "Hierarchical Clustering-based Personalized Federated Learning for Robust and Fair Human Activity Recognition"
+      abbr: "FedCHAR"
+      year: 2023
+      conf: UbiComp
+      links:
+        PDF: https://dl.acm.org/doi/abs/10.1145/3580795
+    
+Soft Clustering:
+  title: "Soft Clustering"
+  split_by_year: true
+  list:
+    - title: "FedSoft: Soft Clustered Federated Learning with Proximal Local Updating"
+      abbr: FedSoft
+      year: 2022
+      conf: AAAI
+      links:
+        PDF: https://ojs.aaai.org/index.php/AAAI/article/view/20785/20544
+
+    - title: "BiG-Fed: Bilevel Optimization Enhanced Graph-Aided Federated Learning"
+      abbr: BiG-Fed
+      year: 2022
+      conf: BigData
+      links:
+        PDF: https://fl-icml.github.io/2021/papers/FL-ICML21_paper_74.pdf
+
+    - title: "Personalized Federated Learning with Inferred Collaboration Graphs"
+      abbr: pFedGraph
+      year: 2023
+      conf: ICML
+      links:
+        PDF: https://proceedings.mlr.press/v202/ye23b/ye23b.pdf
+
+Survey:
+  title: "Survey"
+  list:
+    - title: "Towards personalized federated learning"
+      year: 2022
+      conf: TNNLS
+      links:
+        PDF: https://arxiv.org/pdf/2103.00710.pdf
+    - title: "Federated machine learning: Concept and applications"
+      year: 2019
+      conf: TIST
+      links:
+        PDF: https://arxiv.org/pdf/1902.04885.pdf%E2%80%94%E2%80%94%E8%AE%BA%E6%96%87
+
+theory:
+  title: "Theory"
+  list:
+    - title: "On the Convergence of Clustered Federated Learning"
+      abbr:
+      year: 2022
+      conf: arXiv
+      links:
+        PDF: https://arxiv.org/pdf/2202.06187.pdf
